@@ -12,7 +12,7 @@ const Countries = () => {
     <Container className="py-8 px-4  lg:p-16 mb-5">
       <div className="flex flex-col gap-14">
         <p className="font-bold text-3xl  sm:text-[2.8rem]">
-          We're International
+          Global Presence
         </p>
         <div className="flex flex-col gap-5 xl:flex-row xl:justify-between hover:cursor-pointer">
           <div className="flex gap-3 justify-start items-center border-2  border-gray-300 py-5 px-6 rounded-md">
